@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2021"
 description = "QRSmith is a fast and simple Rust CLI tool for generating QR codes from strings."
 license = "MIT"
-license-file = "LICENSE"
 readme = "README.md"
 repository = "https://github.com/wedkarz02/qrsmith"
 keywords = ["qrcode", "qr", "generator", "qr generator"]
