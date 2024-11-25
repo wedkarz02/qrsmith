@@ -6,7 +6,7 @@ description = "QRSmith is a fast and simple Rust CLI tool for generating QR code
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/wedkarz02/qrsmith"
-keywords = ["qrcode", "qr", "generator", "qr generator"]
+keywords = ["qrcode", "qr", "generator", "encoding"]
 authors = ["wedkarz02"]
 categories = ["command-line-utilities", "encoding"]
 
